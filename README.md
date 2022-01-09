@@ -1,9 +1,13 @@
 # trabalho20IAplataformasGrupo4
 
 ## Membros:
+
 Rodrigo Ferreira 337735
+
 Marco Fendes 341529
+
 Gabriele Piras 342136
+
 Ericsson Silva 340439
 
 ## Trabalho final da matéria de plataformas cognitivas
