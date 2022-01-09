@@ -1,11 +1,12 @@
 # trabalho20IAplataformasGrupo4
-Membros:
-    Rodrigo Ferreira RM: 337735
-    Ericsson Araújo RM: ....
-    Gabriele Piras RM: ...
-    Marco Mendes RM ...
 
-Trabalho final da matéria de plataformas cognitivas
+## Membros:
+Rodrigo Ferreira 337735
+Marco Fendes 341529
+Gabriele Piras 342136
+Ericsson Silva 340439
+
+## Trabalho final da matéria de plataformas cognitivas
 
 Este trabalho tem por objetivo, utilizar serviços prontos de reconhecimento facial e hospedar um serviço com um modelo de machine learning em plataformas de computação em nuvem.
 
@@ -13,8 +14,9 @@ A proposta foi criar um notebook onde o usuário possa preencher suas informaç�
 
 Além disso as informações serão analisadas por dois modelos de machine learning, que informarão se o empréstimo será aprovado ou negado.
 
-Link Repositório Github:
+## Link Repositório Github:
+
 https://github.com/rodrwankenobi/trabalho20IAplataformasGrupo4
 
-Link Vídeo Youtube:
+## Link Vídeo Youtube:
 
