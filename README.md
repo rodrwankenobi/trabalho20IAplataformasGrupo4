@@ -20,3 +20,6 @@ https://github.com/rodrwankenobi/trabalho20IAplataformasGrupo4
 
 ## Link Vídeo Youtube:
 
+
+## Link Notebook Google Colab
+https://colab.research.google.com/drive/1_CcFpn0zt8fWAF6yGl9vrNsYek4k1hus#scrollTo=TavnvwP77wMa
