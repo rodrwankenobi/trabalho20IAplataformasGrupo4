@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  modelo:
+    build: .
+    image: rodrwankenobi/trabalho20iaplataformasgrupo4:v3
+    ports: 
+      - 3000:8080
