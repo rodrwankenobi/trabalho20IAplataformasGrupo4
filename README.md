@@ -23,7 +23,10 @@ Além disso as informações serão analisadas por dois modelos de machine learn
 https://github.com/rodrwankenobi/trabalho20IAplataformasGrupo4
 
 ## Link Vídeo Youtube:
-
+https://studio.youtube.com/video/tD11qhLYAX4/edit
 
 ## Link Notebook Google Colab
 https://colab.research.google.com/drive/1_CcFpn0zt8fWAF6yGl9vrNsYek4k1hus#scrollTo=TavnvwP77wMa
+
+## Link da imagem no docker hub
+https://hub.docker.com/repository/docker/rodrwankenobi/trabalho20iaplataformasgrupo4
